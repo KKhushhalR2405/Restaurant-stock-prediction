@@ -10,4 +10,4 @@ Given the following information, the task is to predict the demand for the next 
 
 - Historical data of demand for a product-center combination (Weeks: 1 to 145)
 - Product(Meal) features such as category, sub-category, current price and discount
-- Information for fulfillment center like center area, city information etc.
+- Information for fulfillment center like center area, city information etc
